@@ -8,7 +8,7 @@
 
 
 ### Installation
-The code should run with no issues using Python versions 3>
+The code should run with no issues using Python versions 3 <
 > libraries: numpy, pandas, matplotlib.pyplot, seaborn
 
 ### Project Motivation
