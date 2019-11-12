@@ -20,7 +20,7 @@ In this project I exploried Stack Overflow Data - 2019 Survey to understand:
 
 ### File Description
 - StackOverflowResults_exploration.ipynb : Notebook contains data analysis
-- survey_results_public.csv:CSV file with main survey results
+- survey_results_public.csv(packed as a release):CSV file with main survey results
 - survey_results_schema.csv: CSV file with survey schema
 
 
